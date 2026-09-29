@@ -1,4 +1,4 @@
-<img width="1844" height="4000" alt="20220414_081627" src="https://github.com/user-attachments/assets/268e1d19-94af-47d1-9684-b71d6a69115d" /># Quantum Learning Platform
+Quantum Learning Platform
 
 An AI-based interactive quantum algorithm learning platform built for SIH25140.
 
