@@ -1,4 +1,4 @@
-# Quantum Learning Platform
+<img width="1844" height="4000" alt="20220414_081627" src="https://github.com/user-attachments/assets/268e1d19-94af-47d1-9684-b71d6a69115d" /># Quantum Learning Platform
 
 An AI-based interactive quantum algorithm learning platform built for SIH25140.
 
@@ -15,3 +15,7 @@ An AI-based interactive quantum algorithm learning platform built for SIH25140.
 - **Frontend:** React, Recharts, react-syntax-highlighter
 - **Backend:** Flask (Python), Qiskit Aer
 - **AI:** Google Gemini API
+
+
+<img width="1476" height="1252" alt="Screenshot 2026-09-26 215637" src="https://github.com/user-attachments/assets/87fc79e1-9e7d-4ea6-ae13-9bb592ae67db" />
+
